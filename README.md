@@ -5,4 +5,4 @@
 
 **Make date**: Пт окт 06 18:07:19 +11 2023
 
-**Number of lines in guessinggame.sh:** 13
+**Number of lines in guessinggame.sh:** 23
